@@ -1,0 +1,2 @@
+(this.webpackJsonpaccordion=this.webpackJsonpaccordion||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var c=t(0),o=t.n(c),r=t(2),a=t.n(r);t(8);var u=function(){return o.a.createElement("h2",null,"accordion project setup")};a.a.render(o.a.createElement(o.a.StrictMode,null,o.a.createElement(u,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.9b80677e.chunk.js.map
