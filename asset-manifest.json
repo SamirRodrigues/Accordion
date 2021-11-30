@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Accordion/static/css/main.4b589e59.chunk.css",
-    "main.js": "/Accordion/static/js/main.9b80677e.chunk.js",
-    "main.js.map": "/Accordion/static/js/main.9b80677e.chunk.js.map",
+    "main.css": "/Accordion/static/css/main.7e3c31c9.chunk.css",
+    "main.js": "/Accordion/static/js/main.7b23bf80.chunk.js",
+    "main.js.map": "/Accordion/static/js/main.7b23bf80.chunk.js.map",
     "runtime-main.js": "/Accordion/static/js/runtime-main.edca2944.js",
     "runtime-main.js.map": "/Accordion/static/js/runtime-main.edca2944.js.map",
-    "static/js/2.6ad7e960.chunk.js": "/Accordion/static/js/2.6ad7e960.chunk.js",
-    "static/js/2.6ad7e960.chunk.js.map": "/Accordion/static/js/2.6ad7e960.chunk.js.map",
+    "static/js/2.fbe228ab.chunk.js": "/Accordion/static/js/2.fbe228ab.chunk.js",
+    "static/js/2.fbe228ab.chunk.js.map": "/Accordion/static/js/2.fbe228ab.chunk.js.map",
     "index.html": "/Accordion/index.html",
-    "precache-manifest.774304b7f8ff43229885c92da1b7fd87.js": "/Accordion/precache-manifest.774304b7f8ff43229885c92da1b7fd87.js",
+    "precache-manifest.fad3a6e5a84d53155ca787152719850a.js": "/Accordion/precache-manifest.fad3a6e5a84d53155ca787152719850a.js",
     "service-worker.js": "/Accordion/service-worker.js",
-    "static/css/main.4b589e59.chunk.css.map": "/Accordion/static/css/main.4b589e59.chunk.css.map",
-    "static/js/2.6ad7e960.chunk.js.LICENSE.txt": "/Accordion/static/js/2.6ad7e960.chunk.js.LICENSE.txt"
+    "static/css/main.7e3c31c9.chunk.css.map": "/Accordion/static/css/main.7e3c31c9.chunk.css.map",
+    "static/js/2.fbe228ab.chunk.js.LICENSE.txt": "/Accordion/static/js/2.fbe228ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.edca2944.js",
-    "static/js/2.6ad7e960.chunk.js",
-    "static/css/main.4b589e59.chunk.css",
-    "static/js/main.9b80677e.chunk.js"
+    "static/js/2.fbe228ab.chunk.js",
+    "static/css/main.7e3c31c9.chunk.css",
+    "static/js/main.7b23bf80.chunk.js"
   ]
 }
